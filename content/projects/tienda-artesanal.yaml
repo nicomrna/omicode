@@ -1,0 +1,9 @@
+order: 2
+title: Tienda online de productos artesanales
+year: "2025"
+tags:
+  - React
+  - Node.js
+  - Mercado Pago
+tone: ink
+description: E-commerce con checkout integrado a Mercado Pago y gestión de stock en tiempo real.

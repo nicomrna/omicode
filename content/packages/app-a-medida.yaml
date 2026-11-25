@@ -1,0 +1,10 @@
+order: 3
+name: Aplicación a medida
+price: A cotizar
+featured: false
+features:
+  - Análisis y definición del alcance
+  - Desarrollo por etapas con entregas
+  - Autenticación, pagos e integraciones
+  - Documentación y traspaso
+description: Sistemas con usuarios, base de datos, pagos e integraciones.

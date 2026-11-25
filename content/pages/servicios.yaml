@@ -1,0 +1,37 @@
+eyebrow: Servicios
+title: Software a medida para cada etapa de tu negocio
+text: Estos son los paquetes más habituales. Si lo tuyo es distinto, lo armamos a tu medida.
+
+servicesTitle: Servicios
+
+packagesEyebrow: Paquetes
+packagesTitle: Precios de referencia
+packagesText: Valores orientativos. El precio final se acuerda por escrito antes de empezar.
+packageButton: Consultar
+packageBadge: Más elegido
+
+process:
+  eyebrow: Proceso
+  title: Cómo trabajamos
+  steps:
+    - title: Conversamos
+      text: Entiendo tu objetivo, tu público y tus plazos. La primera charla no tiene costo.
+    - title: Propuesta clara
+      text: Recibís alcance, precio y fechas por escrito, sin sorpresas.
+    - title: Desarrollo con avances
+      text: Te muestro versiones funcionando para que opines mientras se construye.
+    - title: Lanzamiento y soporte
+      text: Publico el proyecto, te acompaño en la salida y quedo disponible para lo que siga.
+
+faq:
+  eyebrow: Preguntas
+  title: Preguntas frecuentes
+  items:
+    - q: ¿Cuánto tarda un proyecto?
+      a: Una landing suele estar lista en 1–2 semanas y un sitio completo en 3–5. Las aplicaciones a medida se planifican por etapas.
+    - q: ¿Qué necesito para empezar?
+      a: Solo contarme tu idea. Si tenés logo, textos o referencias ayudan, pero puedo guiarte en lo que falte.
+    - q: ¿Cómo se paga?
+      a: Habitualmente 50% al comenzar y 50% al entregar. En proyectos grandes se divide por etapas.
+    - q: ¿Puedo editar el contenido yo mismo?
+      a: Sí. Te dejo el sitio listo para que actualices textos, imágenes y entradas del blog sin depender de nadie.

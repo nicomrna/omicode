@@ -1,0 +1,74 @@
+hero:
+  status: Disponible para nuevos proyectos
+  headline: |-
+    Un programador.
+    **Todo el stack.**
+  text: >-
+    omnicode es mi estudio de desarrollo. Diseño, programo y publico tu sitio,
+    tu app o tu automatización, de la idea al deploy, hablando con una sola
+    persona.
+  primaryCta:
+    label: Contame tu proyecto
+    href: /contacto
+  secondaryCta:
+    label: Ver trabajos
+    href: /portfolio
+  points:
+    - Presupuesto sin cargo
+    - Código y dominio son tuyos
+    - Soporte después del lanzamiento
+orbit:
+  - Web
+  - Apps
+  - APIs
+  - Automatización
+  - Datos
+  - Cloud
+stack:
+  - TypeScript
+  - React
+  - Next.js
+  - Node.js
+  - Python
+  - PostgreSQL
+  - Tailwind
+  - Docker
+  - Vercel
+  - Stripe
+  - Mercado Pago
+  - Git
+meaning:
+  eyebrow: 01 / el nombre
+  title: |-
+    **Omni** significa todo.
+    Por eso me ocupo de todo.
+  text: >-
+    Un proyecto de software se rompe en las costuras entre el diseñador, el
+    programador y quien lo publica. Acá no hay costuras.
+  principles:
+    - title: Una sola cabeza
+      text: >-
+        Hablás con quien escribe el código. Sin intermediarios ni mensajes
+        perdidos.
+    - title: Del boceto al deploy
+      text: Diseño, desarrollo, publicación y mantenimiento en el mismo lugar.
+    - title: Todo es tuyo
+      text: Repositorio, dominio y cuentas a tu nombre desde el primer día.
+services:
+  eyebrow: 02 / servicios
+  title: Lo que construyo
+  text: Desde una página simple hasta un sistema completo.
+  linkLabel: Ver precios y paquetes
+projects:
+  eyebrow: 03 / trabajos
+  title: Proyectos recientes
+  text: Algunos trabajos y las tecnologías detrás de cada uno.
+  linkLabel: Ver todos los proyectos
+blog:
+  eyebrow: 04 / blog
+  title: Lo último que escribí
+  linkLabel: Ver todos los artículos
+cta:
+  title: ¿Tenés algo en mente?
+  text: Contame la idea y te respondo con una propuesta clara, sin compromiso.
+  label: Hablemos

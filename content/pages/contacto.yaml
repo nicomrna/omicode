@@ -1,0 +1,20 @@
+eyebrow: Contacto
+title: Contame sobre tu proyecto
+text: Completá el formulario o escribime directo. Respondo dentro de las 24 horas hábiles.
+
+# Opciones del desplegable "¿Qué necesitás?"
+topics:
+  - Sitio web / Landing
+  - Aplicación a medida
+  - Automatización / Integración
+  - Mantenimiento de un proyecto
+  - Otra consulta
+
+# Datos al costado del formulario (el email sale de site.yaml). icon: mail | clock | pin
+details:
+  - { icon: clock, label: Tiempo de respuesta, value: Menos de 24 horas hábiles }
+  - { icon: pin, label: Ubicación, value: Argentina · Trabajo remoto con clientes de cualquier lugar }
+
+success:
+  title: ¡Mensaje enviado!
+  text: Gracias por escribirme. Te respondo dentro de las próximas 24 horas hábiles.

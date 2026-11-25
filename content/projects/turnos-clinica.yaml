@@ -1,0 +1,12 @@
+title: Sistema de turnos para clínica
+description: >-
+  Plataforma de reservas online con recordatorios automáticos por email y panel
+  para el personal.
+year: '2025'
+tags:
+  - Next.js
+  - PostgreSQL
+  - Resend
+tone: accent
+order: 1
+draft: false
