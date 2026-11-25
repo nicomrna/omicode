@@ -1,18 +1,23 @@
-# Datos generales del sitio. Se usan en el encabezado, pie, buscadores y el formulario.
-name: Tu Nombre            # TODO: tu nombre real
+name: Nicolás
 brand: omnicode
 url: https://omnicode.store
 title: omnicode — Un programador, todo el stack
-description: Estudio de desarrollo de una sola persona. Diseño y programo sitios web, aplicaciones y automatizaciones a medida, de la idea al deploy.
-email: hola@omnicode.store # TODO: un email que realmente recibas
-location: Argentina        # TODO
+description: >-
+  Estudio de desarrollo de una sola persona. Diseño y programo sitios web,
+  aplicaciones y automatizaciones a medida, de la idea al deploy.
+email: marennanicolas@yahoo.com
+location: Argentina
 social:
-  github: https://github.com/tu-usuario      # TODO
-  linkedin: https://linkedin.com/in/tu-usuario # TODO
-
-# Menú de navegación (el orden es el que ves en pantalla)
+  github: https://github.com/nicomrna
+  linkedin: https://linkedin.com/in/nicomrna
 nav:
-  - { label: Servicios, href: /servicios }
-  - { label: Portfolio, href: /portfolio }
-  - { label: Blog, href: /blog }
-  - { label: Sobre mí, href: /sobre-mi }
+  - label: Servicios
+    href: /servicios
+  - label: Portfolio
+    href: /portfolio
+  - label: Blog
+    href: /blog
+  - label: Sobre mí
+    href: /sobre-mi
+  - label: WhatsApp Directo
+    href: https://wa.me/542212046466

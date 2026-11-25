@@ -1,9 +1,0 @@
-order: 3
-title: Dashboard de métricas para pyme
-year: "2024"
-tags:
-  - TypeScript
-  - APIs
-  - Gráficos
-tone: sand
-description: Panel que unifica ventas, stock y gastos desde planillas y APIs, con reportes semanales automáticos.

@@ -1,6 +1,6 @@
 ---
 eyebrow: Sobre mí
-title: Hola, soy Tu Nombre
+title: Hola, soy Nicolás
 text: >-
   Programador, con foco en productos digitales simples de usar y construidos
   para durar.
@@ -39,8 +39,8 @@ facts:
     value: Remoto
 cta: Trabajemos juntos
 ---
-Me dedico al desarrollo de software hace más de **\[X] años**. Empecé por curiosidad y hoy ayudo a emprendedores y empresas a convertir ideas en productos que funcionan.
+Me dedico al desarrollo de software hace más de **5 años**. Empecé por curiosidad y hoy ayudo a emprendedores y empresas a convertir ideas en productos que funcionan.
 
 Trabajo con comunicación clara, plazos honestos y código que se pueda mantener. Prefiero la solución simple que resuelve el problema de fondo antes que tecnología complicada porque sí.
 
-Fuera de la pantalla, me gusta \[tus intereses].
+Fuera de la pantalla, disfruto aprender cosas nuevas, explorar proyectos e ideas y encontrar formas de seguir creciendo, tanto en lo personal como en lo profesional.

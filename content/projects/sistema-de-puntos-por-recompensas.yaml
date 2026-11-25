@@ -1,0 +1,14 @@
+title: Sistema de Puntos por recompensas
+description: >-
+  Web integral de sistema de puntos para local comercial con canje de servicios
+  y/o artículos.
+year: '2025'
+tags:
+  - TypeScript
+  - APIs
+  - Gráficos
+url: https://puntos.vtkaccesorios.com/
+image: /projects/sistema-de-puntos-por-recompensas/image.png
+tone: sand
+order: 3
+draft: false
